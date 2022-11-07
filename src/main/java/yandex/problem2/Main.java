@@ -1,2 +1,4 @@
-package yandex.problem2;public class Main {
+package yandex.problem2;
+
+public class Main {
 }

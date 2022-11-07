@@ -1,9 +1,8 @@
 package yandex.problem1;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
-public class Problem1 {
+public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
